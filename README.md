@@ -15,7 +15,7 @@
 
 -   📫 How to reach me **dixitparthsarathi@gmail.com**
 
--   👨🏻‍💻2nd Github Account https://github.com/ezio-da-firenze/
+-   👨🏻‍💻2nd Github Account https://github.com/parth-psd-009/
 
 -   ⚡ My hobbies **Music 🎸🎹, Literature 📖, Video Games 🎮, Art 🎨, Sports 🏏**
 
@@ -72,16 +72,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-psd-009&show_icons=true&locale=en&layout=compact" alt="parth-psd-009" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezio-da-firenze&show_icons=true&locale=en&layout=compact" alt="ezio-da-firenze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-psd-009&show_icons=true&locale=en" alt="parth-psd-009" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-psd-009&label=Profile%20views&color=0e75b6&style=flat" alt="parth-psd-009" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezio-da-firenze&show_icons=true&locale=en" alt="ezio-da-firenze" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezio-da-firenze&label=Profile%20views&color=0e75b6&style=flat" alt="ezio-da-firenze" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-psd-009&" alt="parth-psd-009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezio-da-firenze&" alt="ezio-da-firenze" /></p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=parth-psd-009&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ezio-da-firenze&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 
 
