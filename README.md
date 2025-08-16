@@ -15,7 +15,7 @@
 
 -   📫 How to reach me **dixitparthsarathi@gmail.com**
 
--   👨🏻‍💻2nd Github Account https://github.com/ezio-da-firenze/
+-   👨🏻‍💻2nd Github Account [https://github.com/ezio-da-firenze/](https://github.com/parth-psd-009)
 
 -   ⚡ My hobbies **Music 🎸🎹, Literature 📖, Video Games 🎮, Art 🎨, Sports 🏏**
 
